@@ -6,4 +6,4 @@ Utilizo Arvores de Decisão e Random Forest para comparar e decidir qual o melho
 Linguagem Utilizada: R (tidymodels)
 
 
-Dados foram retirados do [Kaggle]('https://www.kaggle.com/sakshigoyal7/credit-card-customers')
+Dados foram retirados do [Kaggle](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
