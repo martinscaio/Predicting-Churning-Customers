@@ -4,3 +4,6 @@ Modelo de classificação para prever os clientes propensos a deixar o serviço 
 Utilizo Arvores de Decisão e Random Forest para comparar e decidir qual o melhor algoritmo para este problema.
 
 Linguagem Utilizada: R (tidymodels)
+
+
+Dados foram retirados do [Kaggle]('https://www.kaggle.com/sakshigoyal7/credit-card-customers')
